@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\TBRRIS\\Task 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D00F9262-50B4-4D10-85C4-B5B56263E9BA}|Task 6\\Task 6.csproj|d:\\projects\\tbrris\\task 6\\task 6\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00F9262-50B4-4D10-85C4-B5B56263E9BA}|Task 6\\Task 6.csproj|solutionrelative:task 6\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00F9262-50B4-4D10-85C4-B5B56263E9BA}|Task 6\\Task 6.csproj|d:\\projects\\tbrris\\task 6\\task 6\\services\\towerofhanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00F9262-50B4-4D10-85C4-B5B56263E9BA}|Task 6\\Task 6.csproj|solutionrelative:task 6\\services\\towerofhanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00F9262-50B4-4D10-85C4-B5B56263E9BA}|Task 6\\Task 6.csproj|d:\\projects\\tbrris\\task 6\\task 6\\task 6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D00F9262-50B4-4D10-85C4-B5B56263E9BA}|Task 6\\Task 6.csproj|solutionrelative:task 6\\task 6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00F9262-50B4-4D10-85C4-B5B56263E9BA}|Task 6\\Task 6.csproj|d:\\projects\\tbrris\\task 6\\task 6\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D00F9262-50B4-4D10-85C4-B5B56263E9BA}|Task 6\\Task 6.csproj|solutionrelative:task 6\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\projects\\TBRRIS\\Task 6\\Task 6\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Task 6\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\projects\\TBRRIS\\Task 6\\Task 6\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Task 6\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:42:11.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TowerOfHanoi.cs",
+              "DocumentMoniker": "D:\\projects\\TBRRIS\\Task 6\\Task 6\\Services\\TowerOfHanoi.cs",
+              "RelativeDocumentMoniker": "Task 6\\Services\\TowerOfHanoi.cs",
+              "ToolTip": "D:\\projects\\TBRRIS\\Task 6\\Task 6\\Services\\TowerOfHanoi.cs",
+              "RelativeToolTip": "Task 6\\Services\\TowerOfHanoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:41:51.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task 6.http",
+              "DocumentMoniker": "D:\\projects\\TBRRIS\\Task 6\\Task 6\\Task 6.http",
+              "RelativeDocumentMoniker": "Task 6\\Task 6.http",
+              "ToolTip": "D:\\projects\\TBRRIS\\Task 6\\Task 6\\Task 6.http",
+              "RelativeToolTip": "Task 6\\Task 6.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-02T21:39:18.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\projects\\TBRRIS\\Task 6\\Task 6\\README.md",
+              "RelativeDocumentMoniker": "Task 6\\README.md",
+              "ToolTip": "D:\\projects\\TBRRIS\\Task 6\\Task 6\\README.md",
+              "RelativeToolTip": "Task 6\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-02T21:39:17.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

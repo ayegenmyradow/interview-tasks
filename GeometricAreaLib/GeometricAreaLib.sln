@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricAreaLib", "GeometricAreaLib\GeometricAreaLib.csproj", "{969BF8BD-2837-4B9E-BCAF-3C1928961E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricAreaTests", "GeometricAreaTests\GeometricAreaTests.csproj", "{D7E03EDE-3A31-4F47-8D2C-AB67E4E56BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{969BF8BD-2837-4B9E-BCAF-3C1928961E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969BF8BD-2837-4B9E-BCAF-3C1928961E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969BF8BD-2837-4B9E-BCAF-3C1928961E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969BF8BD-2837-4B9E-BCAF-3C1928961E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E03EDE-3A31-4F47-8D2C-AB67E4E56BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E03EDE-3A31-4F47-8D2C-AB67E4E56BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E03EDE-3A31-4F47-8D2C-AB67E4E56BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E03EDE-3A31-4F47-8D2C-AB67E4E56BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E1F466E-7312-489A-A42F-8827E9CB9186}
+	EndGlobalSection
+EndGlobal
